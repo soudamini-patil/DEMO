@@ -1,0 +1,5 @@
+This file is created for documenting naming convention for this project
+Rules as
+1. variable name should be in all small case
+2. variable name should indicate purpose
+3. variable name should include type e.g. float cost should be float f_cost
