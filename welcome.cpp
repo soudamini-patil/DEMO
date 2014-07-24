@@ -21,3 +21,10 @@ double cube(double in_number)
    out_number= in_number*in_number * in_number;
    return out_number;
 }
+
+double multiply (double in_number1, in_number2)
+{
+   double out_number;
+   out_number = in_number1 * in_number2;
+   return out_number;
+}
