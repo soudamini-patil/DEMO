@@ -12,3 +12,8 @@ void get_input()
 {
   cin >> input_value;
 }
+
+void print_out()
+{
+  cout <<"Output goes here";
+}
