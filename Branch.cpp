@@ -1,4 +1,5 @@
 // This is a  demo program for branch
+// Updated using LocalRep
 
 # include <iostream.h>
 
@@ -10,5 +11,5 @@ void main()
 
 void print_out ()
 {
-  cout << "This output is displayed using print_out method";
+  
 }
